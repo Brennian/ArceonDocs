@@ -1,1 +1,69 @@
-# ArceonDocs
+# Home
+
+### [**Join the Discord server**](https://discordapp.com/invite/jpRVrjd)
+
+### **Plugin Downloads**
+
+[**🠜 1.8-1.13 Legacy Wiki**](https://github.com/Brennian/Arceon/wiki)
+
+> [Arceon Fawe **v0.5.0**](https://www.patreon.com/posts/121134028) - \[1.16+] 🠜 **Recommended**
+
+> [Arceon WorldEdit **v0.1.5**](https://www.patreon.com/posts/52224255) - \[1.14+] - **Outdated**
+
+### **General Information**
+
+> #### [config.md](general-information/config.md "mention")
+
+> #### [perms.md](general-information/perms.md "mention")
+
+**`/arceon`** - displays version info.
+
+**`//wiki`** - sends you a link to this wiki.
+
+**`//suggest`** - sends you a link to [the suggestions website](https://app.feedbacky.net/b/Arceon).
+
+***
+
+> [brushes.md](general-information/brushes.md "mention")
+
+> [masks.md](general-information/masks.md "mention")
+
+> [patterns.md](general-information/patterns.md "mention") - **NEW PATTERN**
+
+### **Tools**
+
+> [color-replace.md](tools/color-replace.md "mention")
+
+> [arch-tool.md](tools/arch-tool.md "mention")
+
+> [resize-tool.md](tools/resize-tool.md "mention")
+
+> [rope-tool.md](tools/rope-tool.md "mention")
+
+> [shadow-tool.md](tools/shadow-tool.md "mention")
+
+> [smooth-snow-tool.md](tools/smooth-snow-tool.md "mention")
+
+> [smear-tool.md](tools/smear-tool.md "mention")
+
+> [roof-tool.md](tools/roof-tool.md "mention")
+
+> [spike-tool.md](tools/spike-tool.md "mention")
+
+> [road-tool.md](tools/road-tool.md "mention")
+
+> [loft-tool.md](tools/loft-tool.md "mention")
+
+> [terragen.md](tools/terragen.md "mention")
+
+> [revolve-tool.md](tools/revolve-tool.md "mention")
+
+> [dashes-tool.md](tools/dashes-tool.md "mention") - **NEW**
+
+> [river-tool.md](tools/river-tool.md "mention")
+
+> [text-tool.md](tools/text-tool.md "mention")
+
+> [type-replace.md](tools/type-replace.md "mention")
+
+> [experimental-tools.md](experimental-tools.md "mention")

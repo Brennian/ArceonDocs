@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Shadow-Tool
 
 **Permission:** `arceon.tool.shadow`
 
@@ -8,9 +8,8 @@ Creates a shadow inside of your selection based on where you are standing.
 
 ***
 
-## **Examples:**
+### **Examples:**
 
 > **//shadow 159:9**
 
 ![](https://i.imgur.com/6UvjYB8.png)
-

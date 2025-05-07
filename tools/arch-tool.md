@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Arch-Tool
 
 **Permission:** `arceon.tool.arch`
 
@@ -10,7 +10,6 @@
 
 **ArchHeight:** % of the height
 
-
 ***
 
 **Flags:**
@@ -21,5 +20,6 @@
 
 ***
 
-## **Examples:**
+### **Examples:**
+
 ![](https://i.imgur.com/DrMMKGC.jpg)

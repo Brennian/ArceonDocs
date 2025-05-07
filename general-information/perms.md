@@ -1,20 +1,20 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Permission Nodes
 
-# **Overview**
+## **Overview**
 
-> **[Permission Groups](https://github.com/Brennian/Arceon-1.14/wiki/Perms#permission-groups)**
+> [#permission-groups](perms.md#permission-groups "mention")
 
-> **[Management](https://github.com/Brennian/Arceon-1.14/wiki/Perms#management)**
+> [#management](perms.md#management "mention")
 
-> **[General](https://github.com/Brennian/Arceon-1.14/wiki/Perms#general)**
+> [#general](perms.md#general "mention")
 
-> **[Tools](https://github.com/Brennian/Arceon-1.14/wiki/Perms#tools)**
+> [#tools](perms.md#tools "mention")
 
-> **[Brushes](https://github.com/Brennian/Arceon-1.14/wiki/Perms#brushes)**
+> [#brushes](perms.md#brushes "mention")
 
 ***
 
-## **Permission Groups**
+### **Permission Groups**
 
 **All Permissions** `arceon.*`
 
@@ -30,13 +30,13 @@
 
 ***
 
-## **Management**
+### **Management**
 
 **/arceon reload** `arceon.admin`
 
 ***
 
-## **General**
+### **General**
 
 **//wiki** `arceon.wiki`
 
@@ -44,7 +44,7 @@
 
 ***
 
-## **Tools** 
+### **Tools**
 
 > `arceon.tools` `arceon.tool.*`
 
@@ -92,7 +92,7 @@
 
 ***
 
-## **Brushes** 
+### **Brushes**
 
 > `arceon.brushes` `arceon.brush.*`
 

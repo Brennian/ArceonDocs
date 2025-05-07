@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Dashes-Tool
 
 **Permission:** `arceon.tool.dashes`
 
@@ -19,6 +19,6 @@ Use any slab pattern for the system to use slabs for more detailing.
 
 ***
 
-## **Examples:**
+### **Examples:**
 
 **TODO**

@@ -1,20 +1,21 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Experimental-tools
 
-# **Overview**
+## **Overview**
 
-> **[Waxing tool](https://github.com/Brennian/Arceon-1.14/wiki/Experimental-tools#waxing-tool)**
+> [#waxing-tool](experimental-tools.md#waxing-tool "mention")
 
-> **[Fixconnect tool](https://github.com/Brennian/Arceon-1.14/wiki/Experimental-tools#fixconnect-tool)**
+> [#fixconnect-tool](experimental-tools.md#fixconnect-tool "mention")
 
-> **[Wave Function Collapse](https://github.com/Brennian/Arceon/wiki/Experimental-tools#wave-function-collapse)** - **NEW**
+> [#wave-function-collapse](experimental-tools.md#wave-function-collapse "mention") - **NEW**
 
 ***
 
-## **Wave Function Collapse**
+### **Wave Function Collapse**
 
 **Permission:** `arceon.tool.wfc`
 
 **`//wfc <size> [symmetry] [sample]`**
+
 > Only works with cuboid selections.
 
 Creates a texture based on your selection.
@@ -29,10 +30,9 @@ Creates a texture based on your selection.
 
 ![](https://i.imgur.com/9tXAq1C.png)
 
-
 ***
 
-## **Waxing Tool**
+### **Waxing Tool**
 
 **Permission:** `arceon.tool.wax`
 
@@ -42,7 +42,7 @@ Waxes all copper blocks in your cuboid selection.
 
 ***
 
-## **Fixconnect Tool**
+### **Fixconnect Tool**
 
 **Permission:** `arceon.tool.fixconnect`
 

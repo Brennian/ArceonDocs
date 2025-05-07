@@ -1,5 +1,4 @@
-
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Revolve-Tool
 
 **Permission:** `arceon.tool.revolve`
 
@@ -21,9 +20,10 @@ Uses cuboid selection.
 
 ***
 
-### **Youtube Tutorial:**
-[![](https://i.imgur.com/o1YDR9y.png)](https://www.youtube.com/watch?v=uvZD5OWT2RM)
-![]()
+#### **Youtube Tutorial:**
 
-### **Example:**
+[![](https://i.imgur.com/o1YDR9y.png)](https://www.youtube.com/watch?v=uvZD5OWT2RM)![](..)
+
+#### **Example:**
+
 ![](https://i.imgur.com/RTONfY0.png)

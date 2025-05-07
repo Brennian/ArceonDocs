@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Smooth-Snow-Tool
 
 **Permission:** `arceon.tool.smoothsnow`
 
@@ -14,8 +14,8 @@ Creates smooth snow based on the mask.
 
 ***
 
-## **Examples:**
+### **Examples:**
 
-> **//ss 7 grass snow [1.4 -> -0.8]**
+> **//ss 7 grass snow \[1.4 -> -0.8]**
 
 ![](https://i.imgur.com/H1QNVgS.gif)

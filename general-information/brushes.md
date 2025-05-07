@@ -1,28 +1,28 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Brushes
 
-# **Overview**
+## **Overview**
 
 **Permission:** `arceon.brushes` `arceon.brush.*`
 
 **Aliases:** `/arcbrush /ab //ab`
 
-> **[Erode Blend brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#erode-blend-brush)** - **UPDATED**
+> [#erode-blend-brush](brushes.md#erode-blend-brush "mention") - **UPDATED**
 
-> **[Cube brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#cube-brush)**
+> [#cube-brush](brushes.md#cube-brush "mention")
 
-> **[Spike brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#spike-brush)**
+> [#spike-brush](brushes.md#spike-brush "mention")
 
-> **[Vine brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#vine-brush)**
+> [#vine-brush](brushes.md#vine-brush "mention")
 
-> **[Crop brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#crop-brush)**
+> [#crop-brush](brushes.md#crop-brush "mention")
 
-> **[Revolve brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#revolve-brush)**
+> [#revolve-brush](brushes.md#revolve-brush "mention")
 
-> **[Boulder brush](https://github.com/Brennian/Arceon-1.14/wiki/Brushes#boulder-brush)**
+> [#boulder-brush](brushes.md#boulder-brush "mention")
 
 ***
 
-## **Erode Blend Brush**
+### **Erode Blend Brush**
 
 **Permission:** `arceon.brush.erodeblend`
 
@@ -36,30 +36,30 @@ Erodes, then blend balls terrain.
 
 ***
 
-## **Cube Brush**
+### **Cube Brush**
 
 **Permission:** `arceon.brush.cube`
 
 **`/arcbrush cube <block> [size] [snapeAngle] [height] [width]`**
 
-Creates cuboid shapes, 
-you can use [min],[max] for each size parameter.
+Creates cuboid shapes,\
+you can use \[min],\[max] for each size parameter.
 
 snapeAngle = angle intervals the cubes snap on (has to be a divisor of 360)
 
 **Flags:**
 
- **-h flag** makes it hollow
+**-h flag** makes it hollow
 
- **-c flag** makes the height centered
+**-c flag** makes the height centered
 
- **-a flag** makes it angled based on your orientation
+**-a flag** makes it angled based on your orientation
 
 ![](https://i.imgur.com/m0UJ7vg.png)
 
 ***
 
-## **Spike Brush**
+### **Spike Brush**
 
 **Permission:** `arceon.brush.spike`
 
@@ -73,13 +73,13 @@ Uses convex selection.
 
 **Flags:**
 
- **-n flag** adds noise to the spike shape.
+**-n flag** adds noise to the spike shape.
 
 ![](https://i.imgur.com/pqDwXI8.png)
 
 ***
 
-## **Vine Brush**
+### **Vine Brush**
 
 **Permission:** `arceon.brush.vine`
 
@@ -93,7 +93,7 @@ Uses convex selection.
 
 ***
 
-## **Crop Brush**
+### **Crop Brush**
 
 **Permission:** `arceon.brush.crop`
 
@@ -105,11 +105,12 @@ Min and max data values between 0 and 8.
 
 ***
 
-## **Revolve Brush**
+### **Revolve Brush**
 
 **Permission:** `arceon.brush.revolve`
 
 **`/arcbrush revolve <amount> [start] [end] [heightDiff]`**
+
 > Uses cuboid selection.
 
 **Start and end =** angle of start and end in degrees.
@@ -118,30 +119,30 @@ Min and max data values between 0 and 8.
 
 **Flags:**
 
- **-p flag** makes the rotations regular polygon shapes
+**-p flag** makes the rotations regular polygon shapes
 
- **-r flag** makes the rotation reversed
+**-r flag** makes the rotation reversed
 
 ![](https://i.imgur.com/RTONfY0.png)
 
 ***
 
-## **Boulder Brush**
+### **Boulder Brush**
 
 **Permission:** `arceon.brush.boulder`
 
 **`/arcbrush boulder <block> [size] [amount] [height] [width]`**
 
-you can use [min],[max] for each size parameter.
+you can use \[min],\[max] for each size parameter.
 
 **Amount =** smoothness from 0 to 5 (0 is low poly)
 
 **Flags:**
 
- **-h flag** makes the rocks hollow
+**-h flag** makes the rocks hollow
 
- **-f flag** makes the rocks "fall" to the ground
+**-f flag** makes the rocks "fall" to the ground
 
- **-a flag** makes the rocks angled based on your orientation
+**-a flag** makes the rocks angled based on your orientation
 
 ![](https://i.imgur.com/zlV9EY4.png)

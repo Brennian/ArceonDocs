@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Smear-Tool
 
 **Permission:** `arceon.tool.smear`
 
@@ -18,10 +18,11 @@ Negative amounts drag it back instead.
 
 ***
 
-### **Youtube Tutorial by MegRae:**
+#### **Youtube Tutorial by MegRae:**
+
 [![youtube tutorial by MegRae](https://i.imgur.com/V0iP7M1.png)](https://www.youtube.com/watch?v=FPBYjxOvP1g)
 
-## **Examples:**
+### **Examples:**
 
 > **//smear 5** - looking NE
 

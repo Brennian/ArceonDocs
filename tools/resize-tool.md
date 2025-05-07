@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Resize-Tool
 
 **Permission:** `arceon.tool.resize`
 
@@ -8,7 +8,6 @@ Uses cuboid selections.
 
 Resizes your selection to the scale specified.
 
-
 ***
 
 **Flags:**
@@ -17,5 +16,6 @@ Resizes your selection to the scale specified.
 
 ***
 
-## **Examples:**
+### **Examples:**
+
 ![](https://i.imgur.com/RkYW02u.gif)

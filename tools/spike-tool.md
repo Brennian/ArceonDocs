@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Spike-Tool
 
 **Permission:** `arceon.tool.spike`
 
@@ -13,21 +13,20 @@ Uses convex selection.
 **Flags:**
 
 * **-n flag** adds noise to the spike shape.
-
 * **-p flag** uses straight lines instead of a curve.
 
 ***
 
-## **Examples:**
+### **Examples:**
 
-> **//spike red_wool 1 20**
+> **//spike red\_wool 1 20**
 
 ![](https://i.imgur.com/iUsWzKg.png)
 
-> **//spike red_wool 1 20 -n**
+> **//spike red\_wool 1 20 -n**
 
 ![](https://i.imgur.com/6BFb7oH.png)
 
-> **//spike red_wool 10 30 10**
+> **//spike red\_wool 10 30 10**
 
 ![](https://i.imgur.com/5W5yT2R.png)

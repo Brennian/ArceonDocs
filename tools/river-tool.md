@@ -1,4 +1,4 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# River-Tool
 
 **Permission:** `arceon.tool.river`
 
@@ -13,12 +13,11 @@ Uses convex selection.
 **Flags:**
 
 * **-s flag** smooths out the liquid or snow layers.
-
 * **-n flag** adds noise to the river shape.
 
 ***
 
-## **Examples:**
+### **Examples:**
 
 > **//river water 5 10**
 
@@ -32,6 +31,6 @@ Uses convex selection.
 
 ![](https://i.imgur.com/vrJ9ga0.png)
 
-> **//river snow_layer 10 20 -sn**
+> **//river snow\_layer 10 20 -sn**
 
 ![](https://i.imgur.com/KOXjxsu.png)

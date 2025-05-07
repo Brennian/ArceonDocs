@@ -1,45 +1,46 @@
-**[🡄 back](https://github.com/Brennian/Arceon-1.14/wiki)**
+# Masks
 
-# **Overview**
+## **Overview**
 
-> **[Angle mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#angle-mask)**
+> [#angle-mask](masks.md#angle-mask "mention")
 
-> **[Proximity mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#proximity-mask)**
+> [#proximity-mask](masks.md#proximity-mask "mention")
 
-> **[Proximity3D mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#proximity3d-mask)**
+> [#proximity3d-mask](masks.md#proximity3d-mask "mention")
 
-> **[Above mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#above-mask)**
+> [#above-mask](masks.md#above-mask "mention")
 
-> **[Below mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#below-mask)**
+> [#below-mask](masks.md#below-mask "mention")
 
-> **[Y mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#y-mask)**
+> [#y-mask](masks.md#y-mask "mention")
 
-> **[Type mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#type-mask)**
+> [#type-mask](masks.md#type-mask "mention")
 
-> **[Ambient mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#ambient-mask)**
+> [#ambient-mask](masks.md#ambient-mask "mention")
 
-> **[YGradient mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#ygradient-mask)**
+> [#ygradient-mask](masks.md#ygradient-mask "mention")
 
-> **[Color mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#color-mask)**
+> [#color-mask](masks.md#color-mask "mention")
 
-###  Noise masks
-> **[Noise mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#noise-mask)**
+#### Noise masks
 
-> **[Turbulence mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#turbulence-mask)**
+> [#noise-mask](masks.md#noise-mask "mention")
 
-> **[Electric mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#electric-mask)**
+> [#turbulence-mask](masks.md#turbulence-mask "mention")
 
-> **[Crack mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#crack-mask)**
+> [#electric-mask](masks.md#electric-mask "mention")
 
-> **[Cell mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#cell-mask)**
+> [#crack-mask](masks.md#crack-mask "mention")
 
-> **[Voronoi mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#voronoi-mask)**
+> [#cell-mask](masks.md#cell-mask "mention")
 
-> **[Fractal mask](https://github.com/Brennian/Arceon-1.14/wiki/Masks#fractal-mask)**
+> [#voronoi-mask](masks.md#voronoi-mask "mention")
+
+> [#fractal-mask](masks.md#fractal-mask "mention")
 
 ***
 
-## **Color Mask**
+### **Color Mask**
 
 **`#cc [color]`**
 
@@ -47,7 +48,7 @@
 
 ***
 
-## **Angle Mask**
+### **Angle Mask**
 
 **`#arcangle [minAngle] [maxAngle] [range]`**
 
@@ -63,7 +64,7 @@ Use surface normal angle as the mask.
 
 ***
 
-## **Proximity Mask**
+### **Proximity Mask**
 
 **`#prox [mask] [distance]`**
 
@@ -73,7 +74,7 @@ replace blocks within distance to the mask on the Y-axis.
 
 ***
 
-## **Proximity3D Mask**
+### **Proximity3D Mask**
 
 **`#prox3D [mask] [distance]`**
 
@@ -83,7 +84,7 @@ replace blocks within distance to the mask.
 
 ***
 
-## **Above Mask**
+### **Above Mask**
 
 **`#above [mask] [distance]`**
 
@@ -93,7 +94,7 @@ replace blocks within distance to the mask.
 
 ***
 
-## **Below Mask**
+### **Below Mask**
 
 **`#below [mask] [distance]`**
 
@@ -101,7 +102,7 @@ replace blocks within distance to the mask.
 
 ![](https://i.imgur.com/8UYIGk7.png)
 
-## **Y Mask**
+### **Y Mask**
 
 **`y [min] [max]`**
 
@@ -111,7 +112,7 @@ replace blocks within distance to the mask.
 
 ***
 
-## **Type Mask**
+### **Type Mask**
 
 **`#type [block type]`**
 
@@ -121,7 +122,7 @@ replace blocks within distance to the mask.
 
 ***
 
-## **Ambient Mask**
+### **Ambient Mask**
 
 **`#ambient [min=2]`**
 
@@ -131,7 +132,7 @@ replace blocks within distance to the mask.
 
 ***
 
-## **YGradient Mask**
+### **YGradient Mask**
 
 **`#ygradient <min> <max>`**
 
@@ -140,9 +141,10 @@ replace blocks within distance to the mask.
 Min and max values are the Y coordinate.
 
 ![](https://i.imgur.com/g8HGi9O.png)
+
 ***
 
-## **Turbulence Mask**
+### **Turbulence Mask**
 
 **`#turbulence [zoom=1] [coverage=50%]`**
 
@@ -152,7 +154,7 @@ Min and max values are the Y coordinate.
 
 ***
 
-## **Noise Mask**
+### **Noise Mask**
 
 **`#noise [seed] [noiseType] [coverage] [...]`**
 
@@ -170,7 +172,7 @@ Min and max values are the Y coordinate.
 
 ***
 
-## **Electric Mask**
+### **Electric Mask**
 
 **`#electric [zoom=1] [coverage=50%]`**
 
@@ -180,7 +182,7 @@ Min and max values are the Y coordinate.
 
 ***
 
-## **Crack Mask**
+### **Crack Mask**
 
 **`#crack [zoom=1] [coverage=50%] [jitter=70%]`**
 
@@ -190,7 +192,7 @@ Min and max values are the Y coordinate.
 
 ***
 
-## **Cell Mask**
+### **Cell Mask**
 
 **`#cell [zoom=1] [coverage=50%] [jitter=70%]`**
 
@@ -200,7 +202,7 @@ Min and max values are the Y coordinate.
 
 ***
 
-## **Voronoi Mask**
+### **Voronoi Mask**
 
 **`#voronoi [zoom=1] [jitter=50%]`**
 
@@ -210,11 +212,10 @@ Min and max values are the Y coordinate.
 
 ***
 
-## **Fractal Mask**
+### **Fractal Mask**
 
 **`#fractal [zoom=1] [coverage=50%]`**
 
 **Example:** `#fractal[2][40]` or `#frac[2][40]`
 
 ![](https://i.imgur.com/VXPGhnN.png)
-
