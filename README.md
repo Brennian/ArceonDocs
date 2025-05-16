@@ -6,15 +6,15 @@
 
 [**🠜 1.8-1.13 Legacy Wiki**](https://github.com/Brennian/Arceon/wiki)
 
-> [Arceon Fawe **v0.5.0**](https://www.patreon.com/posts/121134028) - \[1.16+] 🠜 **Recommended**
+> [Arceon Fawe **v0.5.1**](https://www.patreon.com/posts/arceon-0-5-1-1-1-123837897) - \[1.16+] 🠜 **Recommended**
 
 > [Arceon WorldEdit **v0.1.5**](https://www.patreon.com/posts/52224255) - \[1.14+] - **Outdated**
 
 ### **General Information**
 
-> #### [config.md](general-information/config.md "mention")
+> [config.md](general-information/config.md "mention")
 
-> #### [perms.md](general-information/perms.md "mention")
+> [perms.md](general-information/perms.md "mention")
 
 **`/arceon`** - displays version info.
 
