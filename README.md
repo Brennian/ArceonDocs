@@ -6,9 +6,7 @@
 
 [**🠜 1.8-1.13 Legacy Wiki**](https://github.com/Brennian/Arceon/wiki)
 
-> [Arceon Fawe **v0.5.1**](https://www.patreon.com/posts/arceon-0-5-1-1-1-123837897) - \[1.16+] 🠜 **Recommended**
-
-> [Arceon WorldEdit **v0.1.5**](https://www.patreon.com/posts/52224255) - \[1.14+] - **Outdated**
+> [Arceon Fawe **v0.5.3**](https://www.patreon.com/posts/arceon-0-5-1-1-1-123837897) - \[1.20+] 🠜 **Recommended**
 
 ### **General Information**
 
@@ -20,7 +18,7 @@
 
 **`//wiki`** - sends you a link to this wiki.
 
-**`//suggest`** - sends you a link to [the suggestions website](https://app.feedbacky.net/b/Arceon).
+**`//suggest`** - sends you a link to the discord server.
 
 ***
 
