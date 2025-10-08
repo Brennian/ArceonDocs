@@ -6,7 +6,7 @@
 
 **Aliases:** `/arcbrush /ab //ab`
 
-> [#erode-blend-brush](brushes.md#erode-blend-brush "mention") - **UPDATED**
+> [#erode-blend-brush](brushes.md#erode-blend-brush "mention")
 
 > [#cube-brush](brushes.md#cube-brush "mention")
 

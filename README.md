@@ -8,6 +8,10 @@
 
 > [Arceon Fawe **v0.5.3**](https://www.patreon.com/posts/arceon-0-5-1-1-1-123837897) - \[1.20+] 🠜 **Recommended**
 
+> Arceon x Axiom v0.1.1 - \[1.20+]&#x20;
+>
+> More info
+
 ### **General Information**
 
 > [config.md](general-information/config.md "mention")
@@ -26,7 +30,7 @@
 
 > [masks.md](general-information/masks.md "mention")
 
-> [patterns.md](general-information/patterns.md "mention") - **NEW PATTERN**
+> [patterns.md](general-information/patterns.md "mention")&#x20;
 
 ### **Tools**
 

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Axiom Addon](axiom-addon.md)
 * [General Information](general-information/README.md)
   * [Config](general-information/config.md)
   * [Permission Nodes](general-information/perms.md)
