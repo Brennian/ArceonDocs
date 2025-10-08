@@ -8,9 +8,9 @@
 
 > [Arceon Fawe **v0.5.3**](https://www.patreon.com/posts/arceon-0-5-1-1-1-123837897) - \[1.20+] 🠜 **Recommended**
 
-> Arceon x Axiom v0.1.1 - \[1.20+]&#x20;
+> [Arceon x Axiom v0.1.1](https://www.patreon.com/posts/arceon-x-axiom-0-138830381) - \[1.20+]&#x20;
 >
-> More info
+> > [**More info**](https://arceon.gitbook.io/arceon-wiki/axiom-addon)
 
 ### **General Information**
 
