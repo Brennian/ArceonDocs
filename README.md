@@ -10,7 +10,7 @@
 
 > [**Arceon x Axiom v0.1.1**](https://www.patreon.com/posts/arceon-x-axiom-0-138830381) **- \[1.20+]**&#x20;
 >
-> > [<mark style="color:$success;">**More info**</mark>](https://arceon.gitbook.io/arceon-wiki/axiom-addon)
+> > [<mark style="color:$success;">**Addon Documentation**</mark> ](https://arceon.gitbook.io/arceon-wiki/axiom-addon)
 
 ### **General Information**
 
