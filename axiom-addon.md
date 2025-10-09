@@ -6,6 +6,8 @@ description: >-
 
 # Axiom Addon
 
+#### [**Server side Permissions**](general-information/perms.md#axiom)
+
 #### **Server Usage:**
 
 _<mark style="color:$info;">(not applicable to Singleplayer)</mark>_
@@ -13,8 +15,6 @@ _<mark style="color:$info;">(not applicable to Singleplayer)</mark>_
 > Requires a copy of [Arceon v0.5.3](https://www.patreon.com/posts/arceon-0-5-3-1-1-138801769) or above to be running on the server.\
 > \
 > Axiom's Boulder Brush Permission: **arceon.axiom.boulder**
-
-
 
 ### **Boulder Brush in Axiom:**
 
