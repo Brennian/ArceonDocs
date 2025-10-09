@@ -118,6 +118,8 @@
 
 ### **Axiom**
 
+> `arceon.axiom.*`
+
 **Boulder Brush** `arceon.axiom.boulder`
 
 &#x20;
