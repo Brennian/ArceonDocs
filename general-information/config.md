@@ -64,6 +64,34 @@ loft:
   # If enabled, players with 'arceon.bypass.loft' will be allowed to exceed the limits above.
   # Default: true
   enable-bypass: true
+  # If enabled, paper without a display name using "loft" in the name won't work.
+  # Default: false
+  force-item-name: false
+```
+
+#### Asset Placer&#x20;
+
+Asset placer settings.
+
+```yaml
+asset-placer:
+  # Default: true
+  enable-preview: true
+  # Range the asset can be placed and previewed at.
+  # Default: 200
+  range: 200
+  # Smooths out the movement between previews but makes it less snappy and more delayed.
+  # Default: false
+  smooth-transitions: false
+  # Limits the maximum amount of blocks in an Asset. (only checks on creation)
+  # Default: 500000
+  max-blocks: 500000
+  # Delay between updates on the previews in ticks.
+  # Default: 5
+  preview-update-delay: 5
+  # Delay between clean cycles in ticks to clean up unused displays left over from server crashes & errors.
+  # Default: 200
+  preview-clean-delay: 200
 ```
 
 #### Masks
@@ -123,5 +151,3 @@ tools:
 ## Default Configurations
 
 * [**Latest** default config](https://github.com/Brennian/Arceon-1.14/blob/master/config.yml)
-* [`v0.4.3` default config](https://github.com/Brennian/Arceon-1.14/blob/7cbba62c4955828c88a0618039283b60887e5df3/config.yml)
-* [`v0.4.0` default config](https://github.com/Brennian/Arceon-1.14/blob/7e696b93b8096c289c19d957d928190fe7645942/config.yml)
