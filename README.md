@@ -6,7 +6,7 @@
 
 [**🠜 1.8-1.13 Legacy Wiki**](https://github.com/Brennian/Arceon/wiki)
 
-> [Arceon Fawe **v0.5.3**](https://www.patreon.com/posts/arceon-0-5-1-1-1-123837897) - \[1.20+] 🠜 **Recommended**
+> [Arceon Fawe **v0.5.5**](https://www.patreon.com/posts/arceon-0-5-5-1-1-146848463) - \[1.20+] 🠜 **Recommended**
 
 > [**Arceon x Axiom v0.1.1**](https://www.patreon.com/posts/arceon-x-axiom-0-138830381) **- \[1.20+]**&#x20;
 >
