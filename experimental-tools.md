@@ -46,7 +46,7 @@ Waxes all copper blocks in your cuboid selection.
 
 **Permission:** `arceon.tool.fixconnect`
 
-**`//fixconnect`**
+**`//originalfixconnect`**
 
 Fixes block connections for stairs, fences and panes.
 
